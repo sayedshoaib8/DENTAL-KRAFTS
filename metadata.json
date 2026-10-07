@@ -1,0 +1,6 @@
+{
+  "name": "Dental Krafts | Dental Clinic in Govandi, Mumbai",
+  "description": "Premium demo website for Dental Krafts Dental Clinic in Govandi East, Mumbai. Featuring 4.8 Google rating, patient reviews, aligners, implants, root canals, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
